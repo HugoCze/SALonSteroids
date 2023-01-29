@@ -41,23 +41,6 @@ class Search_And_Like:
     BUCKET_STATUS = False
     FIRST_FIRST_PAGE_COMMENT = ""
     CURRENT_PAGE = 1
-
-
-    # def choose_driver(self, path, comment):
-    #     if self.CURRENT_DRIVER == "":   
-    #         print(f"choose_driver - driver == empty string - going with Chrome", file=open('SAL_Logs.txt','a'))
-    #         driver_type = Chrome_driver
-    #         self.CURRENT_DRIVER = Chrome_driver
-    #     elif self.CURRENT_DRIVER == Chrome_driver: 
-    #         print(f"choose_driver - driver == Chrome - going with Edge", file=open('SAL_Logs.txt','a'))
-    #         driver_type = Edge_driver
-    #         self.CURRENT_DRIVER = Edge_driver
-    #     elif self.CURRENT_DRIVER == Edge_driver: 
-    #         print(f"choose_driver - driver == Edge - going with Chrome", file=open('SAL_Logs.txt','a'))
-    #         driver_type = Chrome_driver
-    #         self.CURRENT_DRIVER = Chrome_driver
-    #     ## ENDING
-    #     self.get_homePage(path, comment, driver_type)
     
     def get_homePage(self, path, comment):
         homepage = "https://www.pudelek.pl/" + path
@@ -95,14 +78,13 @@ class Search_And_Like:
             print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE}, first comment on the page is: {fc_XP_text} and FIRST_FIRST_PAGE_COMMENT is {self.FIRST_FIRST_PAGE_COMMENT} \n running sal 2", file=open('SAL_Logs.txt','a'))
             self.FIRST_FIRST_PAGE_COMMENT = ""
             self.CURRENT_PAGE = 1
-            # self.choose_driver(path, comment)
             os.system("python3 sal_onSteroids1.py")
         for i in range(0, 34):
             try:
                 possible_comment_xp = f'//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[{i}]/div/div[2]'
                 comment_location = driver.find_element(By.XPATH, possible_comment_xp)
                 comment_text = comment_location.get_attribute('innerHTML')
-                print(comment_text, file=open('SAL_Logs.txt','a'))
+                # print(comment_text, file=open('SAL_Logs.txt','a'))
                 if comment_text.strip() == comment.strip():
                     print(f"Did find the comment: {comment_text}", file=open('SAL_Logs.txt','a'))
                     like_button = possible_comment_xp[:-6]
@@ -145,7 +127,7 @@ SAL = Search_And_Like()
 while True:
     SAL.PROCCESS_COUNTER += 1 
     start_time = time.time()
-    SAL.main("jacek-kopczynski-ma-nowa-partnerke-nastepczyni-patrycji-markowskiej-potwierdza-ich-zwiazek-raczej-juz-tego-nie-ukryjemy-6859714963409600a", "Piękna dziewczyna .Markowska nie umie śpiewać , istnieje tylko dzięki znanemu ojcu.")
+    SAL.main("kinga-rusin-chwali-sie-ile-przeleje-na-wosp-i-wali-w-pis-brakuje-na-sluzbe-zdrowia-ale-nie-na-propagande-tvp-wideo-6860724500949664a", "Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!")
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Logs.txt','a'))
