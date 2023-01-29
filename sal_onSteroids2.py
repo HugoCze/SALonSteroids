@@ -42,22 +42,6 @@ class Search_And_Like:
     FIRST_FIRST_PAGE_COMMENT = ""
     CURRENT_PAGE = 1
 
-
-    # def choose_driver(self, path, comment):
-    #     if self.CURRENT_DRIVER == "":   
-    #         print(f"choose_driver - driver == empty string - going with Chrome", file=open('SAL_Logs.txt','a'))
-    #         driver_type = Chrome_driver
-    #         self.CURRENT_DRIVER = Chrome_driver
-    #     elif self.CURRENT_DRIVER == Chrome_driver: 
-    #         print(f"choose_driver - driver == Chrome - going with Edge", file=open('SAL_Logs.txt','a'))
-    #         driver_type = Edge_driver
-    #         self.CURRENT_DRIVER = Edge_driver
-    #     elif self.CURRENT_DRIVER == Edge_driver: 
-    #         print(f"choose_driver - driver == Edge - going with Chrome", file=open('SAL_Logs.txt','a'))
-    #         driver_type = Chrome_driver
-    #         self.CURRENT_DRIVER = Chrome_driver
-    #     ## ENDING
-    #     self.get_homePage(path, comment, driver_type)
     
     def get_homePage(self, path, comment):
         homepage = "https://www.pudelek.pl/" + path
@@ -99,8 +83,10 @@ class Search_And_Like:
                 self.CURRENT_PAGE = 1
                 # self.choose_driver(path, comment)
                 os.system("python3 sal_onSteroids1.py")
+                return
         except ignored_exceptions:
             os.system("python3 sal_onSteroids1.py")
+            return
         for i in range(0, 34):
             try:
                 possible_comment_xp = f'//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[{i}]/div/div[2]'
