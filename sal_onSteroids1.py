@@ -89,16 +89,17 @@ class Search_And_Like:
             fc_XPATH = '//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[2]'
             fc_location = driver.find_element(By.XPATH, fc_XPATH)
             fc_XP_text = fc_location.get_attribute('innerHTML')
+        
+            if self.CURRENT_PAGE == 1:
+                print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE} assining {fc_XP_text} as a FIRST_FIRST_PAGE_COMMENT", file=open('SAL_Logs.txt','a'))
+                self.FIRST_FIRST_PAGE_COMMENT = fc_XP_text
+            if self.CURRENT_PAGE != 1 and self.FIRST_FIRST_PAGE_COMMENT == fc_XP_text:
+                print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE}, first comment on the page is: {fc_XP_text} and FIRST_FIRST_PAGE_COMMENT is {self.FIRST_FIRST_PAGE_COMMENT} \n running sal 2", file=open('SAL_Logs.txt','a'))
+                self.FIRST_FIRST_PAGE_COMMENT = ""
+                self.CURRENT_PAGE = 1
+                # self.choose_driver(path, comment)
+                os.system("python3 sal_onSteroids2.py")
         except ignored_exceptions:
-            os.system("python3 sal_onSteroids2.py")
-        if self.CURRENT_PAGE == 1:
-            print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE} assining {fc_XP_text} as a FIRST_FIRST_PAGE_COMMENT", file=open('SAL_Logs.txt','a'))
-            self.FIRST_FIRST_PAGE_COMMENT = fc_XP_text
-        if self.CURRENT_PAGE != 1 and self.FIRST_FIRST_PAGE_COMMENT == fc_XP_text:
-            print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE}, first comment on the page is: {fc_XP_text} and FIRST_FIRST_PAGE_COMMENT is {self.FIRST_FIRST_PAGE_COMMENT} \n running sal 2", file=open('SAL_Logs.txt','a'))
-            self.FIRST_FIRST_PAGE_COMMENT = ""
-            self.CURRENT_PAGE = 1
-            # self.choose_driver(path, comment)
             os.system("python3 sal_onSteroids2.py")
         for i in range(0, 34):
             try:
