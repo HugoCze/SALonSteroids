@@ -85,9 +85,12 @@ class Search_And_Like:
 
     def search_comment(self, path, comment):
         print(f"search_comment - searching for comment - CURRENT PAGE IS: {self.CURRENT_PAGE}", file=open('SAL_Logs.txt','a'))
-        fc_XPATH = '//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[2]'
-        fc_location = driver.find_element(By.XPATH, fc_XPATH)
-        fc_XP_text = fc_location.get_attribute('innerHTML')
+        try:
+            fc_XPATH = '//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[2]'
+            fc_location = driver.find_element(By.XPATH, fc_XPATH)
+            fc_XP_text = fc_location.get_attribute('innerHTML')
+        except ignored_exceptions:
+            os.system("python3 sal_onSteroids2.py")
         if self.CURRENT_PAGE == 1:
             print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE} assining {fc_XP_text} as a FIRST_FIRST_PAGE_COMMENT", file=open('SAL_Logs.txt','a'))
             self.FIRST_FIRST_PAGE_COMMENT = fc_XP_text
@@ -145,7 +148,7 @@ SAL = Search_And_Like()
 while True:
     SAL.PROCCESS_COUNTER += 1 
     start_time = time.time()
-    SAL.main("kinga-rusin-chwali-sie-ile-przeleje-na-wosp-i-wali-w-pis-brakuje-na-sluzbe-zdrowia-ale-nie-na-propagande-tvp-wideo-6860724500949664a", "Brawo Kinga,Brawo Owsiak❤️❤️❤️❤️❤️👍👍👍👍")
+    SAL.main("kinga-rusin-chwali-sie-ile-przeleje-na-wosp-i-wali-w-pis-brakuje-na-sluzbe-zdrowia-ale-nie-na-propagande-tvp-wideo-6860724500949664a", "Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!")
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Logs.txt','a'))
