@@ -70,10 +70,13 @@ class Search_And_Like:
     def search_comment(self, path, comment):
         print(f"search_comment - searching for comment - CURRENT PAGE IS: {self.CURRENT_PAGE}", file=open('SAL_Logs.txt','a'))
         try:
+
+            print(f"search_comment - trying to get the first comment", file=open('SAL_Logs.txt','a'))
+
             fc_XPATH = '//*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[2]'
             fc_location = driver.find_element(By.XPATH, fc_XPATH)
             fc_XP_text = fc_location.get_attribute('innerHTML')
-        
+
             if self.CURRENT_PAGE == 1:
                 print(f"search_comment - CURRENT PAGE IS: {self.CURRENT_PAGE} assining {fc_XP_text} as a FIRST_FIRST_PAGE_COMMENT", file=open('SAL_Logs.txt','a'))
                 self.FIRST_FIRST_PAGE_COMMENT = fc_XP_text
