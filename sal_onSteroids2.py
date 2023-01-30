@@ -68,6 +68,7 @@ class Search_And_Like:
         print(f"click - clicking given xpath: {xpath} - {call_indication}", file=open('SAL_Logs.txt','a'))
 
     def search_comment(self, path, comment):
+        time.sleep(3)
         print(f"search_comment - searching for comment - CURRENT PAGE IS: {self.CURRENT_PAGE}", file=open('SAL_Logs.txt','a'))
         try:
 
