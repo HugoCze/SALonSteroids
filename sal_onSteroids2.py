@@ -138,7 +138,7 @@ SAL = Search_And_Like()
 while True:
     SAL.PROCCESS_COUNTER += 1 
     start_time = time.time()
-    SAL.main("kinga-rusin-chwali-sie-ile-przeleje-na-wosp-i-wali-w-pis-brakuje-na-sluzbe-zdrowia-ale-nie-na-propagande-tvp-wideo-6860724500949664a", "Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!")
+    SAL.main("kinga-rusin-chwali-sie-ile-przeleje-na-wosp-i-wali-w-pis-brakuje-na-sluzbe-zdrowia-ale-nie-na-propagande-tvp-wideo-6860724500949664a", "Brawo Kinga,Brawo Owsiak❤️❤️❤️❤️❤️👍👍👍👍")
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Logs.txt','a'))
