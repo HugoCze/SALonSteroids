@@ -1335,3 +1335,417 @@ Counter: 76
 Search_And_Like - failed to get homePage - refresh and terms
 Terms and conditions starting...
 terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.096622228622437 
+Counter: 77 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.09835696220398 
+Counter: 78 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.091600894927979 
+Counter: 79 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.12497615814209 
+Counter: 80 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.225261211395264 
+Counter: 81 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.103423118591309 
+Counter: 82 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.106834173202515 
+Counter: 83 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.095958948135376 
+Counter: 84 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.097921133041382 
+Counter: 85 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.102290868759155 
+Counter: 86 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.090007066726685 
+Counter: 87 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.08510708808899 
+Counter: 88 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.094416856765747 
+Counter: 89 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.097814083099365 
+Counter: 90 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.106941223144531 
+Counter: 91 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.234576225280762 
+Counter: 92 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.106712102890015 
+Counter: 93 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.089625835418701 
+Counter: 94 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.10505223274231 
+Counter: 95 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.092063903808594 
+Counter: 96 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.101506233215332 
+Counter: 97 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.09375524520874 
+Counter: 98 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Skończcie już ta wojenkę Polsko polska  as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->2662<!-- -->)
+Skończcie już ta wojenkę Polsko polska 
+Hej, ludzie, czy ktoś z Was mógłby mi wytłumaczyć, dlaczego Pudel nie pisze nigdy o D.odzie, albo pewnej Marcie, żonie 3 mężów, oszukujacej w sprawie ojcostwa córki? Umarły te panie, czy co???  
+Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+Did find the comment: Brawo Kinga !! PiS to przestępcy !! A większa Czesc Polaków to głupcy !! Bo wybrali PiS !! Inflacja w Niemczech 4% a w tym kraju 30% ta realna !!!
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.100489854812622 
+Counter: 99 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
