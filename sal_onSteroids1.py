@@ -19,8 +19,8 @@ chrome_options.add_argument("--allow-running-insecure-content")
 chrome_options.add_argument("--ignore-ssl-errors=yes")
 chrome_options.add_argument("--ignore-certificate-errors")
 chrome_options.add_argument("--allow-insecure-localhost")
-
-chrome_options.headless = True
+chrome_options.add_argument('--headless')
+# chrome_options.headless = True
 
 driver = webdriver.Chrome(options=chrome_options)
 driver.set_page_load_timeout(5)
