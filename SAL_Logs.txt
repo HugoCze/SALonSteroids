@@ -1,0 +1,483 @@
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+click - clicking given xpath: /html/body/div[3]/div/div[2]/div[3]/div/button[2] - clicked accept terms button
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->148<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 3.9231841564178467 
+Counter: 1 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Ma więcej niż rację. Dramat co się u na wyprawia. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->180<!-- -->)
+Ma więcej niż rację. Dramat co się u na wyprawia.
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[5]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 6.563045263290405 
+Counter: 2 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Nikt nie komentuje, czy znów nie można komentować? Żadna z nas nie chciałaby się znaleźć na miejscu tej dziewczyny, to pewne. Stres na wiele lat as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Nikt nie komentuje, czy znów nie można komentować? Żadna z nas nie chciałaby się znaleźć na miejscu tej dziewczyny, to pewne. Stres na wiele lat
+"katotaliban" - w tym określeniu stanu naszej Polski nie ma przesady. Tak jest i tylko kwestia czasu, kiedy każda z nas odczuje to na własnej skórze :(
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 4.086686134338379 
+Counter: 3 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Nikt nie komentuje, czy znów nie można komentować? Żadna z nas nie chciałaby się znaleźć na miejscu tej dziewczyny, to pewne. Stres na wiele lat as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Nikt nie komentuje, czy znów nie można komentować? Żadna z nas nie chciałaby się znaleźć na miejscu tej dziewczyny, to pewne. Stres na wiele lat
+"katotaliban" - w tym określeniu stanu naszej Polski nie ma przesady. Tak jest i tylko kwestia czasu, kiedy każda z nas odczuje to na własnej skórze :(
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 4.132164001464844 
+Counter: 4 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Nikt nie komentuje, czy znów nie można komentować? Żadna z nas nie chciałaby się znaleźć na miejscu tej dziewczyny, to pewne. Stres na wiele lat as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Nikt nie komentuje, czy znów nie można komentować? Żadna z nas nie chciałaby się znaleźć na miejscu tej dziewczyny, to pewne. Stres na wiele lat
+"katotaliban" - w tym określeniu stanu naszej Polski nie ma przesady. Tak jest i tylko kwestia czasu, kiedy każda z nas odczuje to na własnej skórze :(
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[7]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 3.894638776779175 
+Counter: 5 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 3.7623159885406494 
+Counter: 6 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 3.9766080379486084 
+Counter: 7 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.105227947235107 
+Counter: 8 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.10364294052124 
+Counter: 9 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.081196784973145 
+Counter: 10 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.078804969787598 
+Counter: 11 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.06691598892212 
+Counter: 12 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.074619770050049 
+Counter: 13 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.065433025360107 
+Counter: 14 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.074266910552979 
+Counter: 15 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.079373121261597 
+Counter: 16 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.070345878601074 
+Counter: 17 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.064910888671875 
+Counter: 18 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.112898826599121 
+Counter: 19 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.091345071792603 
+Counter: 20 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.074206829071045 
+Counter: 21 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.065859079360962 
+Counter: 22 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.089941024780273 
+Counter: 23 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.078066349029541 
+Counter: 24 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.124374866485596 
+Counter: 25 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.11654782295227 
+Counter: 26 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.103179693222046 
+Counter: 27 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.098358154296875 
+Counter: 28 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.083259105682373 
+Counter: 29 
+ 
+ 
+ main - here we are at main. Calling get_homePage
+Search_And_Like - failed to get homePage - refresh and terms
+Terms and conditions starting...
+terms - Terms and conditions not found - searching comment
+search_comment - searching for comment - CURRENT PAGE IS: 1
+search_comment - trying to get the first comment
+search_comment - CURRENT PAGE IS: 1 assining Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę. as a FIRST_FIRST_PAGE_COMMENT
+(<!-- -->194<!-- -->)
+Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+Did find the comment: Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.
+got the like butt xpath
+click - clicking given xpath: //*[@id="page_content"]/div[1]/div/div[3]/div/div/div/div/div[3]/div/div[1]/div[2]/div/button[1] - search_comment - called click like button from comment searching
+Time of looking the comment is equal to: 8.091454029083252 
+Counter: 30 
+ 
+ 
+ main - here we are at main. Calling get_homePage

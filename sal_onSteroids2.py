@@ -86,10 +86,10 @@ class Search_And_Like:
                 self.FIRST_FIRST_PAGE_COMMENT = ""
                 self.CURRENT_PAGE = 1
                 # self.choose_driver(path, comment)
-                os.system("python3 sal_onSteroids1.py")
+                os.system("python3 sal_onSteroids2.py")
                 return
         except ignored_exceptions:
-            os.system("python3 sal_onSteroids1.py")
+            os.system("python3 sal_onSteroids2.py")
             return
         for i in range(0, 34):
             try:
@@ -139,8 +139,8 @@ SAL = Search_And_Like()
 while True:
     SAL.PROCCESS_COUNTER += 1 
     start_time = time.time()
-    # SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Zbliżają się wybory. Zadbajmy o nasze kobiety!")
-    SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.")
+    SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Zbliżają się wybory. Zadbajmy o nasze kobiety!")
+    # SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.")
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Logs.txt','a'))
