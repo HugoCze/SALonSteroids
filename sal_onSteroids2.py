@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, InvalidSessionIdException, ElementNotInteractableException, StaleElementReferenceException, TimeoutException,ElementClickInterceptedException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+
 import time 
 import datetime
 import os
@@ -22,7 +23,8 @@ chrome_options.add_argument("--allow-insecure-localhost")
 
 chrome_options.headless = True
 
-driver = webdriver.Chrome(options=chrome_options)
+driver = webdriver.Chrome('.', options=chrome_options)
+
 driver.set_page_load_timeout(5)
 
 
