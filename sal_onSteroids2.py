@@ -139,7 +139,8 @@ SAL = Search_And_Like()
 while True:
     SAL.PROCCESS_COUNTER += 1 
     start_time = time.time()
-    SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Zbliżają się wybory. Zadbajmy o nasze kobiety!")
+    # SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Zbliżają się wybory. Zadbajmy o nasze kobiety!")
+    SAL.main("sprawa-joanny-z-krakowa-kinga-rusin-miazdzy-pis-i-polska-policje-kazali-jej-sie-rozebrac-do-naga-choc-krwawila-6921586600442848a?fbclid=IwAR2XwfbyjdWMuq5ALuZZaQCpM0zIGyUh4wkvQPOEuu8P_-dQqNw0aZaVZGc", "Lekarze powinni na kopach wywalić pisowskich milicjantów, a dwie małpy w mundurach przede wszystkim. Jeżeli nie potrafili tego zrobić, to powinni wezwać kogoś z dyrekcji w celu przywołania bydła do porządku. Do podejmowania takich działań wobec pacjenta na terenie szpitala trzeba uzyskać pozwolenie od lekarza sprawującego nad nim opiekę.")
     end_time = time.time()
     total_time = end_time - start_time
     print(f"Time of looking the comment is equal to: {total_time} ",  file=open('SAL_Logs.txt','a'))
