@@ -23,7 +23,7 @@ chrome_options.add_argument("--allow-insecure-localhost")
 
 chrome_options.headless = True
 
-driver = webdriver.Chrome('google-chrome-stable_current_amd64.deb', options=chrome_options)
+driver = webdriver.Chrome(options=chrome_options)
 
 driver.set_page_load_timeout(5)
 
